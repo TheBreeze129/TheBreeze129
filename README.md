@@ -7,6 +7,10 @@
 `2025.03 ~ Current` Master's Student in Intelligent Data and Optimization, Yonsei University <br>
 `2019.03 ~ 2025.02` Bachelor's Degree in Computer Science and Engineering, Kyung Hee Univ. <br>
 
+## 🪙 Scholarship
+
+`2025.03 ~ 2026.02` Industry-Academic Scholarship At LG CNS
+
 ## 🔍 Experience
 
 ### 🏢 Company
