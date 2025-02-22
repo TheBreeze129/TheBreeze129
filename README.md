@@ -9,7 +9,7 @@
 
 ## 🪙 Scholarship
 
-`2025.03 ~ 2026.02` Industry-Academic Scholarship at LG CNS
+`2025.03 ~ 2027.02` Industry-Academic Scholarship at LG CNS
 
 ## 🔍 Experience
 
