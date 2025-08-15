@@ -7,6 +7,16 @@
 `2025.03 ~ Current` Master's Student in Intelligent Data and Optimization, Yonsei University <br>
 `2019.03 ~ 2025.02` Bachelor's Degree in Computer Science and Engineering, Kyung Hee Univ. <br>
 
+## 🔬 Research Lab
+
+`2025.03 ~ Current` Operation Research Lab (Advisor: Prof. Jung-Hoon Mo), Yonsei University
+
+## 🚧 Ongoing Projects
+`2025.03 ~ Current` Digital Afterlife Management System Research on will and legacy management for digital afterlife (with SSRC – Smart Media Research Center, Korea Univ.)
+`2025.03 ~ Current` Multimodal Foundation Model for Zero-shot Surveillance Training and studying foundation models for intelligent zero-shot multimodal monitoring systems
+`2025.04 ~ Current` AI Agent System (Details are confidential)
+`2025.06 ~ Current` OCR Project (Details are confidential)
+
 ## 🪙 Scholarship
 
 `2025.03 ~ 2027.02` Industry-Academic Scholarship at LG CNS
